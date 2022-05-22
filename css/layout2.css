@@ -1,0 +1,55 @@
+p {
+  margin: auto;
+  padding-top: 3px;
+  display: inline-block;
+  color: grey;
+  letter-spacing: -1px;
+  font-size: 14px;
+}
+
+span {
+  font-weight: bold;
+  color: black;
+  letter-spacing: -1px;
+  font-size: 13px;
+}
+
+.logo {
+  border-radius: 500px;
+  width: 50px;
+  display: inline-block;
+}
+.container {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 30px;
+}
+
+.content {
+  width: 60%;
+  font-size: 13px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.pic {
+  display: inline-block;
+}
+
+.navbar li{
+  display: inline-block;  
+  width: 60px;
+  text-align: center;
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.navbar a {
+  font-size: 16px;
+  text-decoration:none;
+}

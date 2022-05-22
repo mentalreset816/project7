@@ -1,0 +1,51 @@
+.container {
+  text-align: center; 
+  margin: -7px;
+}
+
+.main-background {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/starbucks3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 1px;  
+  
+ 
+}
+
+.main-title {
+  color: white;
+  font-size: 40px;
+  margin-top: 150px;
+  padding-left: 20px;
+}
+
+.content {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+}
+.content span {
+  color: white; 
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Kanit', sans-serif;
+}
+
+.button {
+  
+}
+
+.menu-button {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(219, 223, 26);  
+}
+
+.menu-button a {
+  text-decoration: none;
+  color: white; 
+  font-size: 16px;  
+}

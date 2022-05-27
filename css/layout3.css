@@ -34,14 +34,15 @@
   font-family: 'Kanit', sans-serif;
 }
 
-.button {
-  
-}
-
-.menu-button {
-  width: 150px;
-  height: 50px;
-  background-color: rgb(219, 223, 26);  
+.main-button {
+  position: relative; /*내 원래 위치를 기준으로 이동해라 //relative  float처럼 공중에 뜸*/
+  top: 100px;
+  right: 50px;
+  padding: 15px;
+  font-size: 20px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
 }
 
 .menu-button a {
